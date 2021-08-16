@@ -1,0 +1,108 @@
+<!DOCTYPE html><!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NOUR</title>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+    <header>
+        <!--<nav  id="header-nav"  class="navbar navbar-default"> 
+                <div class="container">
+                 </div>
+        </nav>-->
+        <nav id="header-nav" class="navbar navbar-default">
+            <div class="container">
+             <!--- <div class="navbar-header">
+               <a href="index.html" class="pull-left visible-md visible-lg">
+                  <div id="logo-img"></div>
+                </a-->
+
+                <div class="navbar-brand">
+                  <h2>FOOD, LLC</h2>
+                </div>
+
+                     <div class="topnav visible-xs" id="myTopnav">
+              <div class="dropdown">
+                <button class="dropbtn">Dropdown
+                  <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                  <a href="#">Sushi</a>
+                  <a href="#">beef</a>
+                  <a href="#">chiken</a>
+                </div>
+              </div>
+              
+            </div>
+              
+    </header>
+
+    <h1>  OUR MENU </h1>
+    <div class="container-fluid col-xs-12"></div>
+    <h3> Chicken</h3>
+    <p > Texte » est issu du mot latin « textum », dérivé du verbe « texere » qui signifie « tisser ». Le mot s'applique à 
+        l'entrelacement des fibres utilisées dans le tissage, voir par exemple Ovide : « Quo super iniecit textum rude sedula Baucis = 
+        (un siège) sur lequel Baucis empressée avait jeté un tissu grossier »2 ou au tressage (exemple chez Martial « Vimineum textum = panier 
+        d'osier tressé »). Le verbe a aussi le sens large de construire comme dans « basilicam texere = construire une basilique » chez Cicéron3.
+
+        Le sens figuré d'éléments de langage organisés et enchaînés apparaît avant l'Empire romain : il désigne un
+         agencement particulier du discours. Exemple : « epistolas texere = composer des épîtres » - Cicéron (ier siècle av. J.-C
+         .)4 ou plus nettement chez Quintilien (ier siècle apr. J.-C.) : « verba in textu jungantur = l'agencement des mots dans la phrase »5.
+        
+        Les formes anciennes du Moyen Âge désignent au xiie siècle le volume qui contient le texte sacré des Évangiles, puis au xiiie si
+        ècle, le texte original d'un livre saint ou des propos de quelqu'un. Au xviie siècle le mot s’applique au passage d'un ouvrage pris 
+        comme référence et au début du xixe siècle le mot texte a son sens général d'« écrit »
+        nt des fibres utilisées dans le tissage, voir par exemple Ovide : « Quo super iniecit textum rude sedula Baucis = 
+        (un siège) sur lequel Baucis empressée avait jeté un tissu grossier »2 ou au tressage (exemple chez Martial « Vimineum textum = panier 
+        d'osier tressé »). Le verbe a aussi le sens large de construire comme dans « basilicam texere = construire une basilique » chez Cicéron3.
+
+        Le sens figuré d'éléments de langage organisés et enchaînés apparaît avant l'Empire romain : il désigne un
+         agencement particulier du discours. Exemple : « epistolas texere = composer des épîtres » - Cicéron (ier siècle av. J.-C
+         .)4 ou plus nettement chez Quintilien (ier siècle apr. J.-C.) : « verba in textu jungantur = l'agencement des mots dans la phrase »5.
+        
+        Les formes anciennes du Moyen Âge désignent au xiie siècle le volume qui contient le texte sacré des Évangiles, puis au xiiie si
+        ècle, le texte original d'un livre saint ou des propos de quelqu'un. Au xviie siècle le mot s’applique au passage d'un ouvrage pris 
+        comme référence et au début du xixe siècle le mot texte a son sens général d'« écrit
+        nt des fibres utilisées dans le tissage, voir par exemple Ovide : « Quo super iniecit textum rude sedula Baucis = 
+        (un siège) sur lequel Baucis empressée avait jeté un tissu grossier »2 ou au tressage (exemple chez Martial « Vimineum textum = panier 
+        d'osier tressé »). Le verbe a aussi le sens large de construire comme dans « basilicam texere = construire une basilique » chez Cicéron3.
+
+        Le sens figuré d'éléments de langage organisés et enchaînés apparaît avant l'Empire romain : il désigne un
+         agencement particulier du discours. Exemple : « epistolas texere = composer des épîtres » - Cicéron (ier siècle av. J.-C
+         .)4 ou plus nettement chez Quintilien (ier siècle apr. J.-C.) : « verba in textu jungantur = l'agencement des mots dans la phrase »5.
+        
+        Les formes anciennes du Moyen Âge désignent au xiie siècle le volume qui contient le texte sacré des Évangiles, puis au xiiie si
+        ècle, le texte original d'un livre saint ou des propos de quelqu'un. Au xviie siècle le mot s’applique au passage d'un ouvrage pris 
+        comme référence et au début du xixe siècle le mot texte a son sens général d'« écritnt des fibres utilisées dans le tissage, voir par exemple Ovide : « Quo super iniecit textum rude sedula Baucis = 
+        (un siège) sur lequel Baucis empressée avait jeté un tissu grossier »2 ou au tressage (exemple chez Martial « Vimineum textum = panier 
+        d'osier tressé »). Le verbe a aussi le sens large de construire comme dans « basilicam texere = construire une basilique » chez Cicéron3.
+
+        Le sens figuré d'éléments de langage organisés et enchaînés apparaît avant l'Empire romain : il désigne un
+         agencement particulier du discours. Exemple : « epistolas texere = composer des épîtres » - Cicéron (ier siècle av. J.-C
+         .)4 ou plus nettement chez Quintilien (ier siècle apr. J.-C.) : « verba in textu jungantur = l'agencement des mots dans la phrase »5.
+        
+        Les formes anciennes du Moyen Âge désignent au xiie siècle le volume qui contient le texte sacré des Évangiles, puis au xiiie si
+        ècle, le texte original d'un livre saint ou des propos de quelqu'un. Au xviie siècle le mot s’applique au passage d'un ouvrage pris 
+        comme référence et au début du xixe siècle le mot texte a son sens général d'« écritnt des fibres utilisées dans le tissage, voir par exemple Ovide : « Quo super iniecit textum rude sedula Baucis = 
+        (un siège) sur lequel Baucis empressée avait jeté un tissu grossier »2 ou au tressage (exemple chez Martial « Vimineum textum = panier 
+        d'osier tressé »). Le verbe a aussi le sens large de construire comme dans « basilicam texere = construire une basilique » chez Cicéron3.
+
+        Le sens figuré d'éléments de langage organisés et enchaînés apparaît avant l'Empire romain : il désigne un
+         agencement particulier du discours. Exemple : « epistolas texere = composer des épîtres » - Cicéron (ier siècle av. J.-C
+         .)4 ou plus nettement chez Quintilien (ier siècle apr. J.-C.) : « verba in textu jungantur = l'agencement des mots dans la phrase »5.
+        
+        Les formes anciennes du Moyen Âge désignent au xiie siècle le volume qui contient le texte sacré des Évangiles, puis au xiiie si
+        ècle, le texte original d'un livre saint ou des propos de quelqu'un. Au xviie siècle le mot s’applique au passage d'un ouvrage pris 
+        comme référence et au début du xixe siècle le mot texte a son sens général d'« écrit
+    </p>
+   </div>
+
+
+</body>
+
+</html>
