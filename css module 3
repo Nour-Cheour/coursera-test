@@ -1,0 +1,39 @@
+body{
+    font-size: 16px;
+    color:black;
+    background-color: white;
+}
+h1{
+    text-align:bold;
+    text-align: center;
+}
+ #header-nav{
+    background-color: gray;
+
+}
+.container{
+    margin-left:0%;
+}
+h2{
+    margin-left: 0%;
+    text-align: left;
+    text-transform: uppercase;
+}
+h3{
+    text-align:center;
+    background-color:gray;
+    margin-bottom: 0%;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+ p{ 
+    text-align:center;
+    border: 20px;
+    background-color:gray;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.myTopnav{
+    float:left;
+    background-color: gray;
+}
